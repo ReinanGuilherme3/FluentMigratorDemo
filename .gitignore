@@ -1,0 +1,54 @@
+## Ignore arquivos de build do .NET
+bin/
+obj/
+out/
+
+## Ignore arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore configurações locais do VSCode
+.vscode/
+
+## Ignore pastas geradas pelo Rider / JetBrains
+.idea/
+
+## Ignore arquivos de build do Visual Studio
+*.cache
+*.log
+*.vs/
+.vsconfig
+
+## Ignore pacotes NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+## Logs
+*.log
+logs/
+
+## Arquivos de lock e cache
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.DS_Store
+
+## Ignore secrets e configurações de ambiente (não versionar secrets)
+.env
+.env.*
+
+## Coverage
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
+
+## Publish outputs
+publish/
+wwwroot/dist/
+dist/
+node_modules/
