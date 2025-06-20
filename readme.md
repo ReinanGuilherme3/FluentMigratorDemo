@@ -13,5 +13,7 @@ Inclui:
 ## Tecnologias utilizadas
 
 - C# (.NET 9)
+- Dapper
+- Entity Framework
 - FluentMigrator
 - SQL Server

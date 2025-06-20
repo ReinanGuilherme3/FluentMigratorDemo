@@ -19,6 +19,10 @@ out/
 *.cache
 *.log
 *.vs/
+.vs/
+.vs/*
+.vs/FluentMigratorDemo/
+.vs/FluentMigratorDemo/**
 .vsconfig
 
 ## Ignore pacotes NuGet
