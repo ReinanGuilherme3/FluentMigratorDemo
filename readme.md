@@ -85,5 +85,3 @@ Com o FluentMigrator você obtém:
 O FluentMigrator traz ao seu banco de dados o mesmo nível de controle de versão que o Git traz para seu código. Se você deseja melhorar a rastreabilidade, integrar com pipelines e eliminar scripts manuais frágeis, essa é a ferramenta ideal para o seu projeto .NET.
 
 ---
-
-> Desenvolvido por um FullStack .NET Developer apaixonado por organização e automação de infraestrutura.
